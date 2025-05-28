@@ -35,3 +35,13 @@ npx create-next-app@latest
 
 //Deploy nhớ chọn vào trong luôn 
 ![alt text](image.png)
+
+
+//Dùng shacn UI -> (giống react bootstrap)
+
+
+npx shadcn@latest init
+
+
+
+components.json để đọc các tập tin build từ CLI thay vì Manual
