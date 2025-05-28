@@ -32,3 +32,6 @@ yarn add next react react-dom
 //Theo document 
 
 npx create-next-app@latest
+
+//Deploy nhớ chọn vào trong luôn 
+![alt text](image.png)
